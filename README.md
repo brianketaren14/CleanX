@@ -1,6 +1,8 @@
 # CleanX
 - Sebuah Aplikasi Windows Desktop yang bertujuan untuk menyimpan data sebuah sistem pencucian mobil.
 - Dibuat dengan menggunakan bahasa C# dan SQL sebagai database.
+## Database Design
+![Database Design](https://user-images.githubusercontent.com/86067355/178551546-3e157ffd-df48-4e80-a8ba-84f037dd4d58.png)
 ## Halaman Welcome
 ![halaman welcom](https://user-images.githubusercontent.com/86067355/178540819-89423825-05bd-4440-8a84-6bbf2a749b1e.png)
 ## Halaman Karyawan
