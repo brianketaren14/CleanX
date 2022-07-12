@@ -15,6 +15,8 @@
 ![halaman harga pelayanan](https://user-images.githubusercontent.com/86067355/178540800-c435ec80-f660-400f-83c8-77ef3cc6e68a.png)
 ## Halaman Pekerjaan
 ![halaman pekerjaan](https://user-images.githubusercontent.com/86067355/178540813-b793c694-9d62-4301-87d6-e39a1fe474a3.png)
+## Halaman Transaksi
+![halaman transaksi](https://user-images.githubusercontent.com/86067355/178551890-a6250acc-f984-4364-b542-b5463ca00bfa.png)
 ## Halaman Detail Transaksi Pelayanan
 ![halaman detail transaksi harga](https://user-images.githubusercontent.com/86067355/178540793-4f1401cc-61ff-4e72-9a03-9e3e7d5a2c98.png)
 ## Halaman Detail Transaksi Karyawan
